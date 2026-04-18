@@ -298,7 +298,7 @@ df_at_bats
 
 # #### Close the connections
 
-# In[60]:
+# In[62]:
 
 
 # Run this cell without changes
